@@ -1,8 +1,8 @@
 # EX-NO:14-HASH-ALGORITHM
 
 
-## NAME:Mohammed Faizal J
-## REG NO:212222100027
+## NAME :GOPIKRISHNAN M
+## REGNO:212223043001
 
 
 ## AIM:
@@ -85,7 +85,9 @@ int main() {
 ```
 
 ## Output:
-![Screenshot 2024-11-14 191156](https://github.com/user-attachments/assets/b38a7baf-b44d-4d52-b8b5-b494d1669467)
+
+![image](https://github.com/user-attachments/assets/a4d273fc-d571-44d1-829b-f320e79b2f98)
+
 
 ## Result:
 The program is executed successfully.
